@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.ozyegin.cs.repository.SampleRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.177 s <<< FAILURE! - in org.ozyegin.cs.repository.SampleRepositoryTest
+org.ozyegin.cs.repository.SampleRepositoryTest.updateSample  Time elapsed: 0.055 s  <<< ERROR!
+java.lang.Exception: Sample Update is failed!
+	at org.ozyegin.cs.repository.SampleRepositoryTest.updateSample(SampleRepositoryTest.java:36)
+

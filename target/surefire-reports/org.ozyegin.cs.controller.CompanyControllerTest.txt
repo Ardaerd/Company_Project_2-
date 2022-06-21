@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.ozyegin.cs.controller.CompanyControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.908 s - in org.ozyegin.cs.controller.CompanyControllerTest
